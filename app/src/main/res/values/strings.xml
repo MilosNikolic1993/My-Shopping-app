@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MojaKupovina</string>
+    <string name="add_product">Dodaj proizvod</string>
+    <string name="view_cart">Pogledaj korpu</string>
+    <string name="product_name">Naziv proizvoda</string>
+    <string name="product_description">Opis proizvoda</string>
+    <string name="product_price">Cena</string>
+    <string name="product_image">Slika proizvoda</string>
+    <string name="add_to_cart">Dodaj u korpu</string>
+    <string name="remove_from_cart">Ukloni</string>
+    <string name="checkout">Završi kupovinu</string>
+    <string name="product_added_to_cart">Proizvod je dodat u korpu</string>
+    <string name="purchase_complete">Kupovina završena</string>
+</resources>
